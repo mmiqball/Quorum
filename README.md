@@ -6,7 +6,7 @@ This project is a decentralized finance (DeFi) application built on the Polygon 
 
 ## Disclosure
 
-This project was based on blockchain-development guides and tutorials on pointer.gg, which has since shut down.
+This project was based on blockchain-development guides and tutorials on [pointer.gg](https://pointer.gg/), which has since shut down.
 
 ## Features
 
